@@ -1,0 +1,11 @@
+What do you need to be a web developer ?
+
+1_Strong understanding of HTML, CSS, and JavaScript, which are the core technologies for building web pages.
+
+2_Knowledge of web development frameworks and libraries like React, Angular, or Vue.js.
+
+3_Proficiency in server-side programming languages such as Python, Ruby, or Node.js for building dynamic web applications.
+
+4_Familiarity with databases and querying languages like SQL to handle data storage and retrieval.
+
+5_Continuous learning and staying updated with the latest web development trends and technologies.
